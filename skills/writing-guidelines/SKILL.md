@@ -86,16 +86,24 @@ Read files, check against rules below. Output concise but comprehensive: sacrifi
 
 The following acronyms are allowed and should never be spelled out. Always use the abbreviated version:
 
-- HTTP (Hypertext Transfer Protocol)
-- REST (Representational State Transfer)
 - API (Application Programming Interface)
 - AI (Artificial Intelligence)
-- LLM (Large Language Model)
-- HTTPS (Hypertext Transfer Protocol Secure)
+- CI (Continuous Integration)
+- CD (Continuous Deployment)
+- UTC (Coordinated Universal Time)
+- CRS (Coordinate Reference System)
 - GDAL (Geospatial Data Abstraction Library)
 - GIS (Geographic Information System)
+- HTTP (Hypertext Transfer Protocol)
+- HTTPS (Hypertext Transfer Protocol Secure)
+- IPC (Interprocess Communication)
+- JSON (JavaScript Object Notation)
+- LLM (Large Language Model)
+- REST (Representational State Transfer)
 - SDK (Software Development Kit)
 - SQL (Structured Query Language)
+- (WKT) Well-known Text 
+- (WKB) Well-known Binary
 
 ### Lists
 
